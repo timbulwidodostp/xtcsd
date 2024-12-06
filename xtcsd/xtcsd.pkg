@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'xtcsd': Test for cross-sectional dependence in panel data models Use xtcsd With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtcd.ado
+f xtcd.sthlp
+f xtcsd.ado
+f xtcsd.hlp

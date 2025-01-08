@@ -1,6 +1,8 @@
 # xtcsd
 Test for cross-sectional dependence in panel data models Use xtcsd With STATA 18
 
+https://www.youtube.com/watch?v=r62-7rGyNao
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
